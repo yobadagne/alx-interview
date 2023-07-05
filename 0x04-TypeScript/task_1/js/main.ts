@@ -7,6 +7,9 @@
   [index:string]: any,
 }
 
+export interface Director extend Teacher {
+  numberOfReport: number,
+}
 export interface printTeacherFunction {
   (firstName: string. lastName: string): string
 }
