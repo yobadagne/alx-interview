@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """ UTTF-8 validation""" 
 def validUTF8(data):
+    """ function """
     bytes = 1
 
     for i in data:
