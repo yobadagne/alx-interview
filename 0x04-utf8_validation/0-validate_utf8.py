@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """ UTTF-8 validation""" 
 def validUTF8(data):
     """ function """
